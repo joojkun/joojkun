@@ -54,5 +54,5 @@
 
 
 
-<p>&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joojkun&show_icons=true&locale=en" alt="joojkun" /></p>
+<p>&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joojkun&show_icons=true&locale=en&theme=radical" alt="joojkun" /></p>
 
