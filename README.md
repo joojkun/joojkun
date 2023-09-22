@@ -4,7 +4,7 @@
   </a>
 </div>
 <h1 align="center">Welcome! I'm Johnny Sarafim 👋</h1>
-<h3 align="center">Scientific Researcher, Python developer and Data Analyst.</h3>
+<h3 align="center">Python developer and Data Analyst.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=joojkun&label=Profile%20views&color=0e75b6&style=flat" alt="joojkun" /> </p>
 
