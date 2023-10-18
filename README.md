@@ -55,4 +55,5 @@
 
 
 <p>&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=joojkun&show_icons=true&locale=en&theme=jolly" alt="joojkun" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?username=joojkun&show_icons=true&locale=en&theme=jolly)](https://git.io/streak-stats)
 
