@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Characterization of Telegram Groups and Analysis of Twitter Hashtags](https://sites.google.com/view/onlinepolarization)
 
-- 💬 Ask me about [Article on Caracterization Of Political Telegram Groups](https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25674)
+- 💬 Ask me about my [Article on Caracterization Of Political Telegram Groups](https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25674)
 
 - ⚡ Fun fact **I hate queues**
 
