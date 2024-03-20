@@ -18,6 +18,8 @@
 
 - 💬 Ask me about my [Article on Caracterization Of Political Telegram Groups](https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25674)
 
+- 🌐 [Political Polarization Monitor](https://sites.google.com/view/onlinepolarization)
+
 - ⚡ Fun fact **I hate queues**
 
 
