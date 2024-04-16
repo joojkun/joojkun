@@ -11,10 +11,10 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/78/ab/ef78ab78dfd55dd03a51c6ce54fb393b.gif">
 
 - 📫 How to reach me **johnn_43@outlook.com**
+  
+- 📊 Data Analyst at [SmartData BI](https://www.instagram.com/smartdata.bi/)
 
 - 📚 Currently studying Information Systems - UTFPR
-
-- 🔭 I’m currently working on [Characterization of Telegram Groups and Analysis of Twitter Hashtags](https://sites.google.com/view/onlinepolarization)
 
 - 💬 Ask me about my [Article on Caracterization Of Political Telegram Groups](https://sol.sbc.org.br/index.php/webmedia_estendido/article/view/25674)
 
