@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **johnn_43@outlook.com**
   
-- 📊 Data Analyst at [SmartData BI](https://www.instagram.com/smartdata.bi/)
+- 📊 Data Scientist at [SmartData BI](https://www.instagram.com/smartdata.bi/)
 
 - 📚 Currently studying Information Systems - UTFPR
 
