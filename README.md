@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **johnn_43@outlook.com**
   
-- 📊 Data Scientist at [Ford Motor Company](https://www.ford.com.br/)
+- 📊 Data Engineer at [Ford Motor Company](https://www.ford.com.br/)
 
 - 📚 Currently studying Information Systems - UTFPR
 
